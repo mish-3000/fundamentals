@@ -1,2 +1,2 @@
-# fundamentals
+# FUNDAMENTALS
 First repository
