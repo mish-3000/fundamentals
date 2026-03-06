@@ -1,2 +1,2 @@
 # FUNDAMENTALS
-First repository
+My first repository
